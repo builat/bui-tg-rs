@@ -22,7 +22,7 @@ This project created only for self learning props.
 - [ ] `redis`
 - [ ] `mongodb`
 - [ ] `PostgreSQL`
-- [ ] `raabitmq` or another common message bus
+- [ ] `rabitmq` or another common message bus
 
 **Extra:**
 
