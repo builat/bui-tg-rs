@@ -18,11 +18,11 @@ This project created only for self learning props.
 
 **Add support:**
 
-- [ ] Add support of local config file `json/yaml`
-- [ ] Add support of `redis`
-- [ ] Add support of `mongodb`
-- [ ] Add support of `PostgreSQL`
-- [ ] Add support of `raabitmq` or another common message bus
+- [ ] local config file `json/yaml`
+- [ ] `redis`
+- [ ] `mongodb`
+- [ ] `PostgreSQL`
+- [ ] `raabitmq` or another common message bus
 
 **Extra:**
 
