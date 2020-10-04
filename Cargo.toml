@@ -1,0 +1,13 @@
+[package]
+name = "basics"
+version = "1.0.0"
+edition = "2018"
+
+[dependencies]
+telegram-bot = "0.7"
+tokio = { version = "0.2", features = ["full"] }
+futures = "0.3.5"
+serde = "1.0"
+serde_yaml = "0.8"
+getopts = "0.2"
+serde_derive = "1.0"
