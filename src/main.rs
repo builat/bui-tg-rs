@@ -15,7 +15,7 @@ async fn main() -> Result<(), Error> {
     };
 
     let config = bot::helpers::read_init_config(match_result);
-    let api = Api::new(config.token);
+    let api = Api::new(config.unwrap().token);
     let mut stream = api.stream();
     while let Some(update) = stream.next().await {
         let update = update?;
