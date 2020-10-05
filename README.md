@@ -12,13 +12,13 @@ This project created only for self learning props.
 
 **Basic:**
 
-- [ ] Create telegram bot
-- [ ] Use telegram as a message bus
-- [ ] Add user auth level for different commands
+- [x] Create telegram bot
+- [x] Use telegram as a message bus
+- [x] Add user auth level for different commands
 
 **Add support:**
 
-- [ ] local config file `json/yaml`
+- [x] local config file `json/yaml`
 - [ ] `redis`
 - [ ] `mongodb`
 - [ ] `PostgreSQL`
