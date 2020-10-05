@@ -13,7 +13,7 @@ This project created only for self learning props.
 **Basic:**
 
 - [x] Create telegram bot
-- [x] Use telegram as a message bus
+- [ ] Use telegram as a message bus
 - [x] Add user auth level for different commands
 
 **Add support:**
